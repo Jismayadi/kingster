@@ -1,0 +1,43 @@
+Kingster Theme - Home Online Course #2:
+
+	•	home_kingster_online_course_2_header_slide_1: https://www.istockphoto.com/photo/young-businesswoman-typing-an-e-mail-on-laptop-at-home-office-gm1072035598-286876146
+	•	home_kingster_online_course_2_header_slide_2: https://www.istockphoto.com/photo/group-of-happy-young-students-in-library-gm621587594-108592293
+	•	home_kingster_online_course_2_header_slide_3: https://www.istockphoto.com/photo/programmer-working-with-program-code-gm1075599562-287983168
+	•	home_kingster_online_course_2_featured_courses_1: https://unsplash.com/photos/-uHVRvDr7pg
+	•	home_kingster_online_course_2_featured_courses_2: https://www.istockphoto.com/photo/paperwork-and-hands-on-a-board-room-table-at-a-business-presentation-or-seminar-gm1133887502-301110850
+	•	home_kingster_online_course_2_featured_courses_3: https://www.istockphoto.com/photo/figuring-out-strategies-that-involve-their-best-ideas-gm999825310-270383755
+	•	home_kingster_online_course_2_featured_courses_4: https://www.istockphoto.com/photo/student-studying-on-tablet-pc-gm655801842-119910345
+	•	home_kingster_online_course_2_featured_courses_5: https://unsplash.com/photos/g1Kr4Ozfoac
+	•	home_kingster_online_course_2_featured_courses_6: https://unsplash.com/photos/FWVMhUa_wbY
+	•	home_kingster_online_course_2_latest_courses_1: https://www.istockphoto.com/photo/happy-young-man-using-laptop-close-up-gm1063913824-284449742
+	•	home_kingster_online_course_2_latest_courses_2: https://www.istockphoto.com/photo/graphic-designer-at-work-color-samples-gm506819406-84393567
+	•	home_kingster_online_course_2_latest_courses_3: https://www.istockphoto.com/photo/augmented-reality-project-gm1055917194-282180361
+	•	home_kingster_online_course_2_latest_courses_4: https://www.istockphoto.com/photo/designers-drawing-website-ux-app-development-gm1016763896-273509151
+	•	home_kingster_online_course_2_latest_courses_5: https://www.istockphoto.com/photo/creative-designer-hands-sketching-of-screens-for-mobile-responsive-website-gm1057844530-282698268
+	•	home_kingster_online_course_2_latest_courses_6: https://www.istockphoto.com/photo/self-photo-of-four-nice-adorable-smart-clever-intelligent-people-friends-in-casual-gm1055531588-282045931
+	•	home_kingster_online_course_2_services_1: https://www.istockphoto.com/photo/smiling-african-student-studying-for-an-exam-on-campus-gm891625526-246893650
+	•	home_kingster_online_course_2_services_2: https://www.istockphoto.com/photo/team-of-professionals-discussing-over-new-business-project-gm820609122-132588967
+	•	home_kingster_online_course_2_services_3: https://www.istockphoto.com/photo/portrait-of-architects-having-discussion-in-office-gm944101964-257914595
+	•	home_kingster_online_course_2_cta_bg: https://www.istockphoto.com/photo/we-have-everything-we-need-to-pass-gm637874086-114019953
+	•	home_kingster_online_course_2_news_1: https://www.istockphoto.com/photo/female-professional-using-virtual-assistant-at-desk-gm1150572105-311514750
+	•	home_kingster_online_course_2_news_2: https://www.istockphoto.com/photo/man-in-glasses-working-on-laptop-from-home-gm667838656-121909543
+	•	home_kingster_online_course_2_news_3: https://unsplash.com/photos/CPs2X8JYmS8
+
+Kingster Theme - Page Single Course:
+
+	•	home_kingster_page_single_course_header_bg: https://www.istockphoto.com/ae/photo/software-developing-team-working-in-the-office-gm996082438-269576200
+	•	home_kingster_page_single_course_teacher: https://www.shutterstock.com/image-photo/portrait-happy-teacher-classroom-587749046
+
+
+Kingster Theme - Page Course List:
+
+	•	home_kingster_page_course_list_header_bg: https://www.shutterstock.com/image-photo/shot-young-asian-female-student-sitting-534602335
+	•	home_kingster_page_course_list_1: https://www.istockphoto.com/ae/photo/software-developing-team-working-in-the-office-gm996082438-269576200
+	•	home_kingster_page_course_list_2: https://www.shutterstock.com/image-photo/asian-business-adviser-meeting-analyze-discuss-1020878011
+	•	home_kingster_page_course_list_3: https://www.shutterstock.com/image-photo/business-project-team-working-together-meeting-739242352
+	•	home_kingster_page_course_list_4: https://www.shutterstock.com/image-photo/business-woman-study-financial-market-calculate-1204727542
+
+
+Kingster Theme - Page Course Study:
+
+	•	home_kingster_page_course_study_video_bg: https://www.shutterstock.com/image-photo/shot-young-asian-female-student-sitting-534602335

@@ -1,0 +1,27 @@
+Kingster Theme - Home College:
+
+	•	home_kingster_college_header_slide_1: https://www.shutterstock.com/image-photo/two-college-students-standing-corridor-chatting-1102460810
+	•	home_kingster_college_header_slide_2: https://www.istockphoto.com/photo/multi-ethnic-teenage-graduates-throw-caps-in-air-gm896458598-247551546	•	home_kingster_college_header_slide_3: https://www.istockphoto.com/photo/rear-view-of-mature-teacher-giving-a-lecture-in-a-classroom-gm1093522584-293459943
+	•	home_kingster_college_services_1: https://www.shutterstock.com/image-photo/young-man-drawing-draft-on-board-698706325
+	•	home_kingster_college_services_2: https://unsplash.com/photos/4U3d6u_p-fE
+	•	home_kingster_college_services_3: https://www.shutterstock.com/image-photo/group-highs-school-students-sitting-classroom-726926179
+	•	home_kingster_college_services_4: https://www.shutterstock.com/image-photo/computer-teacher-assisting-student-classroom-422527384
+	•	home_kingster_college_cta_bg: https://www.shutterstock.com/image-photo/radcliffe-quadrangle-quad-harvard-university-396023383
+	•	home_kingster_college_about_1: https://www.shutterstock.com/image-photo/interior-busy-university-campus-building-students-478412743
+	•	home_kingster_college_about_2: https://www.shutterstock.com/image-photo/group-students-study-professor-modern-school-410166472
+	•	home_kingster_college_about_3: https://www.shutterstock.com/image-photo/old-vintage-building-institution-university-campus-454329202
+	•	home_kingster_college_counter_bg: https://www.shutterstock.com/image-photo/multiracial-students-walking-university-hall-during-688627174
+	•	home_kingster_college_team_1: https://www.shutterstock.com/image-photo/portrait-confident-african-american-male-teacher-388588375
+	•	home_kingster_college_team_2: https://www.shutterstock.com/image-photo/portrait-confident-young-caucasian-female-teacher-388588453
+	•	home_kingster_college_team_3: https://www.shutterstock.com/image-photo/portrait-confident-caucasian-male-teacher-classroom-388588567
+	•	home_kingster_college_team_4: https://www.shutterstock.com/image-photo/portrait-happy-teacher-classroom-587749046
+	•	home_kingster_college_team_5: https://www.shutterstock.com/image-photo/teacher-classroom-on-blackboard-background-110984234
+	•	home_kingster_college_news_1: https://www.shutterstock.com/image-photo/large-group-multi-ethnic-students-working-1077839363
+	•	home_kingster_college_news_2: https://www.shutterstock.com/image-photo/caucasian-male-scientist-holding-pen-clipboard-62838724
+	•	home_kingster_college_news_3: https://www.shutterstock.com/image-photo/portrait-female-university-student-on-campus-637011406
+	•	home_kingster_college_news_4: https://www.shutterstock.com/image-photo/cambridge-ma-usa-november-2-2013-254954551
+	•	home_kingster_college_events_1: https://www.shutterstock.com/image-photo/golf-player-walking-carrying-bag-on-170053697
+	•	home_kingster_college_events_2: https://www.istockphoto.com/ca/photo/colorful-hot-air-balloons-against-blue-sky-gm478707462-67519961
+	•	home_kingster_college_events_3: https://www.istockphoto.com/ca/photo/now-thats-something-to-get-excited-about-gm949466640-259187895
+	•	home_kingster_college_search: https://www.istockphoto.com/photo/i-can-do-all-my-business-on-the-go-now-gm482474439-37757732
+	•	home_kingster_college_subscribe_bg: https://www.istockphoto.com/photo/group-of-happy-young-students-in-library-gm621587594-108592293

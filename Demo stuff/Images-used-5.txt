@@ -1,0 +1,45 @@
+Kingster Theme - Home Online Course #1:
+
+	•	home_kingster_online_course_1_header_slide_1: https://www.istockphoto.com/photo/smiling-student-sitting-on-stairs-using-laptop-gm912482034-251204613
+	•	home_kingster_online_course_1_header_slide_2: https://www.istockphoto.com/photo/girl-with-headphones-using-a-laptop-gm512058584-86970841
+	•	home_kingster_online_course_1_header_slide_3: https://www.istockphoto.com/photo/happy-student-in-class-gm539246041-59596708
+	•	home_kingster_online_course_1_about_1: https://www.istockphoto.com/photo/university-student-working-on-academic-assignment-gm623349426-109291721
+	•	home_kingster_online_course_1_about_2: https://www.istockphoto.com/photo/young-hipster-girl-working-on-laptop-gm532402194-94250531
+	•	home_kingster_online_course_1_courses_1: https://www.istockphoto.com/photo/financial-chart-at-digital-display-gm638855738-114812373
+	•	home_kingster_online_course_1_courses_2: https://www.istockphoto.com/photo/software-engineers-working-on-project-and-programming-in-company-gm849858958-139532195
+	•	home_kingster_online_course_1_courses_3: https://www.istockphoto.com/photo/creative-designer-hands-sketching-of-screens-for-mobile-responsive-website-gm1057844530-282698268
+	•	home_kingster_online_course_courses_4: https://www.istockphoto.com/photo/self-photo-of-four-nice-adorable-smart-clever-intelligent-people-friends-in-casual-gm1055531588-282045931
+	•	home_kingster_online_course_1_courses_5: https://unsplash.com/photos/g1Kr4Ozfoac
+	•	home_kingster_online_course_1_courses_6: https://unsplash.com/photos/FWVMhUa_wbY
+	•	home_kingster_online_course_1_cta_bg: https://www.istockphoto.com/photo/young-man-working-on-laptop-and-taking-notes-gm667018224-121682113
+	•	home_kingster_online_course_1_video_1: https://www.shutterstock.com/image-photo/three-happy-students-looking-you-thumbs-635351252
+	•	home_kingster_online_course_1_video_2: https://unsplash.com/photos/ewGMqs2tmJI
+	•	home_kingster_online_course_1_categories: https://www.freepik.com/free-vector/development-concept-illustration_5568756.htm
+	•	home_kingster_online_course_1_testimonial_1: https://unsplash.com/photos/2guarBycJJQ
+	•	home_kingster_online_course_1_testimonial_2: https://unsplash.com/photos/mEZ3PoFGs_k
+	•	home_kingster_online_course_1_testimonial_3: https://unsplash.com/photos/IuzJJ7gxVjE
+	•	home_kingster_online_course_1_testimonial_4: https://unsplash.com/photos/gMpjl7mEBD8
+	•	home_kingster_online_course_1_testimonial_5: https://unsplash.com/photos/Q76DPRQ3Ix0
+	•	home_kingster_online_course_1_testimonial_6: https://unsplash.com/photos/_cDUnoCOvMo
+	•	home_kingster_online_course_1_news_1: https://www.istockphoto.com/photo/female-professional-using-virtual-assistant-at-desk-gm1150572105-311514750
+	•	home_kingster_online_course_1_news_2: https://www.istockphoto.com/photo/man-in-glasses-working-on-laptop-from-home-gm667838656-121909543
+	•	home_kingster_online_course_1_news_3: https://unsplash.com/photos/CPs2X8JYmS8
+	•	
+Kingster Theme - Page Single Course:
+
+	•	home_kingster_page_single_course_header_bg: https://www.istockphoto.com/ae/photo/software-developing-team-working-in-the-office-gm996082438-269576200
+	•	home_kingster_page_single_course_teacher: https://www.shutterstock.com/image-photo/portrait-happy-teacher-classroom-587749046
+
+
+Kingster Theme - Page Course List:
+
+	•	home_kingster_page_course_list_header_bg: https://www.shutterstock.com/image-photo/shot-young-asian-female-student-sitting-534602335
+	•	home_kingster_page_course_list_1: https://www.istockphoto.com/ae/photo/software-developing-team-working-in-the-office-gm996082438-269576200
+	•	home_kingster_page_course_list_2: https://www.shutterstock.com/image-photo/asian-business-adviser-meeting-analyze-discuss-1020878011
+	•	home_kingster_page_course_list_3: https://www.shutterstock.com/image-photo/business-project-team-working-together-meeting-739242352
+	•	home_kingster_page_course_list_4: https://www.shutterstock.com/image-photo/business-woman-study-financial-market-calculate-1204727542
+
+
+Kingster Theme - Page Course Study:
+
+	•	home_kingster_page_course_study_video_bg: https://www.shutterstock.com/image-photo/shot-young-asian-female-student-sitting-534602335
